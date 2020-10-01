@@ -1,5 +1,10 @@
 # 📡 useNetworkConnection()
 
+[![travis build](https://img.shields.io/travis/ananta/use-network-connection?style=for-the-badge)](https://travis-ci.com/github/ananta/use-network-connection)
+[![version](https://img.shields.io/npm/v/use-network-connection?style=for-the-badge)](https://www.npmjs.com/package/use-network-connection)
+[![downloads](https://img.shields.io/npm/dm/use-network-connection?style=for-the-badge)](https://www.npmjs.com/package/use-network-connection)
+[![MIT License](https://img.shields.io/npm/l/use-network-connection?style=for-the-badge)](https://www.npmjs.com/package/use-network-connection)
+
 useNetworkConnection() is a custom React hook that let's you know the network connection status of the client application.
 (submit a [issue](https://github.com/ananta/use-network-connection/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) or PR!).
 
