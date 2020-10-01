@@ -1,6 +1,6 @@
 # 📡 useNetworkConnection()
 
-useNetworkConnectio() is a custom React hook that let's you know if the network connection status of the client application.
+useNetworkConnection() is a custom React hook that let's you know the network connection status of the client application.
 (submit a [issue](https://github.com/ananta/use-network-connection/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) or PR!).
 
 ## Usage
