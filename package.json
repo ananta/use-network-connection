@@ -1,6 +1,6 @@
 {
   "name": "use-network-connection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom React hook that let's you know if the network connection status of the client application.",
   "author": "ananta",
   "license": "Apache-2.0",
